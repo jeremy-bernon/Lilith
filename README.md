@@ -1,2 +1,1 @@
-# Lilith
-A tool for constraining new physics scenarios
+# Lilith: A tool for constraining new physics scenarios
